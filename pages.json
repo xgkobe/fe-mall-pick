@@ -1,0 +1,10 @@
+{
+    "index": {
+        "name": "index",
+        "entry": "/src/pages/index/index.html"
+    },
+    "login": {
+        "name": "login",
+        "entry": "/src/pages/login/index.html"
+    }
+}
